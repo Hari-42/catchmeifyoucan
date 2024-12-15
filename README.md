@@ -19,9 +19,10 @@
 4. Have fun and challenge yourself (or your friends)!
 
 ## Technologies Used
-HTML: For the structure
-CSS: Styling
-Javascript: For the logic
+
+- HTML: For the structure
+- CSS: Styling
+- Javascript: For the logic
 
 ---
 
